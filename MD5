@@ -1,0 +1,16 @@
+6f5986521971ea2b27d4dcd685d0b01c *DESCRIPTION
+b799a359ee4dc5361a356c4992a53a08 *LICENSE
+8fa8b733b399ecd3ab49ce1ad4edf6ea *NAMESPACE
+1326a36667641e5ec0351131e67d0f91 *NEWS.md
+8d469842e9ae93292639866798133f77 *R/ncvs_api.R
+0d1a8a3c24081b9ae4d434213b65c840 *R/ncvs_household_codebook.R
+48a5b1e23d83327bdd965dedce4ce208 *R/ncvs_personal_codebook.R
+7d32a8523160b773f9918ad48800fa9e *README.md
+73507b39a4fb941739babbae97384954 *data/ncvs_household_codebook.rda
+a595f7ddba3ed0b2e8a19f7ff7e1490e *data/ncvs_personal_codebook.rda
+2466cc6cfd5cdfc6e77d5e7fd8d605fd *man/figures/ag.png
+25225fe3377214d50109407401de6530 *man/figures/bjscrapeR_hex.png
+507455ba887ea708ac00c496fd9b5eb8 *man/figures/hex_generator.R
+1232f8f21f6df4d62e9fb3d80ac13e42 *man/ncvs_api.Rd
+0974b20a963bb0cd19e62b579bad1e2d *man/ncvs_household_codebook.Rd
+e6fb9d75b1bad4f2865d840124152845 *man/ncvs_personal_codebook.Rd
